@@ -50,10 +50,10 @@ java FlightBookingApp
 - Include email/SMS confirmation for bookings
 
 ## 👨‍💻 Author
-**[Your Name]**  
+**RISHIKESH K**  
 B.Tech Artificial Intelligence and Data Science  
-📧 [Your Email]  
-🌐 [LinkedIn / GitHub Profile Link]
+📧 workwithrishikeshk@gmail.com 
+🌐 https://www.linkedin.com/in/rishikesh-k-844a57290/
 
 ## 🪪 License
 Licensed under the **MIT License**.
